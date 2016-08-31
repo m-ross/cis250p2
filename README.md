@@ -1,0 +1,1 @@
+This program takes inventory data as input from a file upon opening, allows a user to add to inventory or sell from inventory, shows a receipt upon selling, and stores inventory data in the same file upon closing.
